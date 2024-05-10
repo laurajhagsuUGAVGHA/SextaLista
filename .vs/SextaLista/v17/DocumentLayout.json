@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48656394894\\Desktop\\SextaLista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9F489C-9762-4CD7-9DCE-D0B68C29248B}|SextaLista\\SextaLista.vcxproj|C:\\Users\\48656394894\\Desktop\\SextaLista\\SextaLista\\SextaLista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA9F489C-9762-4CD7-9DCE-D0B68C29248B}|SextaLista\\SextaLista.vcxproj|solutionrelative:SextaLista\\SextaLista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SextaLista.cpp",
+              "DocumentMoniker": "C:\\Users\\48656394894\\Desktop\\SextaLista\\SextaLista\\SextaLista.cpp",
+              "RelativeDocumentMoniker": "SextaLista\\SextaLista.cpp",
+              "ToolTip": "C:\\Users\\48656394894\\Desktop\\SextaLista\\SextaLista\\SextaLista.cpp*",
+              "RelativeToolTip": "SextaLista\\SextaLista.cpp*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T18:12:35.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
